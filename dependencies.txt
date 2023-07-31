@@ -1,0 +1,15 @@
+apt 
+ros-humble-xacro
+ros-humble-joint-state-publisher
+ros-humble-joint-state-publisher-gui
+ros-humble-robot-state-publisher
+ros-humble-controller-manager
+ros-humble-ros2-control
+ros-humble-ros2-controllers
+ros-humble-gazebo-ros2-control
+
+other
+https://github.com/joshnewans/serial.git
+https://github.com/E12-CO/diffdrive_arduino_humble.git
+https://github.com/E12-CO/ros_arduino_bridge_ESP32.git
+ydlidar driver 
