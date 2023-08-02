@@ -7,6 +7,7 @@ ros-humble-controller-manager
 ros-humble-ros2-control
 ros-humble-ros2-controllers
 ros-humble-gazebo-ros2-control
+ros-humble-slam-toolbox
 
 other
 https://github.com/joshnewans/serial.git
